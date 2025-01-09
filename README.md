@@ -1,0 +1,2 @@
+# Flyer_Winter_School_Computational_Modelling_2025_Ghana
+Ghanaian Winter School: Computational Modelling in Marine Ecology
